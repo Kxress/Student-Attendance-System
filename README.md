@@ -1,8 +1,8 @@
-# Students Surveillance System (SSS)
+# Student Attendance System (SAS)
 
 A Python-based face recognition system for tracking student attendance.
 
-Download the latest `.exe` (1.1) from [Releases](https://github.com/Kxress/Students-Surveillance-System/releases).
+Download the latest `.exe` (1.1) from [Releases](https://github.com/Kxress/Student-Attendance-System/releases).
 
 ### Keyboard shortcuts:
 
